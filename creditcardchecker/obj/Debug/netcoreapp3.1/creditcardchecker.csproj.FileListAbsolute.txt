@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\bin\Debug\netcoreapp3.1\creditcardchecker.exe
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\bin\Debug\netcoreapp3.1\creditcardchecker.deps.json
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\bin\Debug\netcoreapp3.1\creditcardchecker.runtimeconfig.json
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\bin\Debug\netcoreapp3.1\creditcardchecker.runtimeconfig.dev.json
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\bin\Debug\netcoreapp3.1\creditcardchecker.dll
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\bin\Debug\netcoreapp3.1\creditcardchecker.pdb
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\obj\Debug\netcoreapp3.1\creditcardchecker.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\obj\Debug\netcoreapp3.1\creditcardchecker.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\obj\Debug\netcoreapp3.1\creditcardchecker.AssemblyInfo.cs
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\obj\Debug\netcoreapp3.1\creditcardchecker.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\obj\Debug\netcoreapp3.1\creditcardchecker.dll
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\obj\Debug\netcoreapp3.1\creditcardchecker.pdb
+C:\Users\pc\Desktop\creditcardchecker\creditcardchecker\obj\Debug\netcoreapp3.1\creditcardchecker.genruntimeconfig.cache
